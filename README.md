@@ -1,1 +1,3 @@
-Check out my portfolio at: https://mohassan.dev
+Check out my software services at: https://mohassan.dev
+
+Want to connect? Email me at hello@mohassan.dev
